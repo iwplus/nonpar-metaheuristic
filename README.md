@@ -1,2 +1,2 @@
-# Metaheuristic search in mixed non-parametric regressions
-Examples on how to implement metaheuristic search in determining optimal parameters for mixed kernel and spline truncated non-parametric regression
+# Metaheuristic search in mixed non-parametric models
+Examples on how to implement metaheuristic search in determining optimal parameters for non-parametric models
